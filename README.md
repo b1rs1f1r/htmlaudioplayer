@@ -1,2 +1,2 @@
-# htmlaudioplayer
-HTML5 Video Player
+# HTML5 Audio Player
+This is a basic audio player in HTML5. You can listen your musics with your audio player and your codes.
